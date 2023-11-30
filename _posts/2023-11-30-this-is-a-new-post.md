@@ -2,7 +2,6 @@
 title:  Welcome to my Second Post!
 author: tong
 food: pizza
-layout: default
 ---
 
 ## Welcome
