@@ -2,11 +2,11 @@
 title:  "Welcome to my Second Post!"
 author: "tong"
 food: "pizza"
-layout: default
 ---
 
 ## Welcome
 ### This is my Second Post!
+### My name is {{ page.author }}
 
 <p>My favorite food is {{ page.food }}</p>
 
