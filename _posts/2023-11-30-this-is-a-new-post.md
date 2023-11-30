@@ -1,7 +1,7 @@
 ---
-title:  "Welcome to my Second Post!"
-author: "tong"
-food: "pizza"
+title:  Welcome to my Second Post!
+author: tong
+food: pizza
 ---
 
 ## Welcome
