@@ -1,7 +1,7 @@
   {% for post in site.posts %}
   <article>
     <h2>
-      <a href="{{ page.url }}">
+      <a href="{{ page.path }}">
         {{ post.title }}
       </a>
     </h2>
