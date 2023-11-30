@@ -9,6 +9,6 @@ Sports but mainly about Football
 
 | Manchester City vs Spurs  | Match Day |
 | ------------------------- | --------- |
-| Predictions  | Content Cell  |
-| Spurs + 1.5  | Content Cell  |`
+| Predictions  |
+| Spurs + 1.5  | Total Goals Under 3.5  |`
 
