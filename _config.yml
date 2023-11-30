@@ -1,4 +1,4 @@
-theme: just-the-docs
+remote_theme: just-the-docs/just-the-docs
 title: Football Predictions
 author: tong
 description: Trying out Github Pages for the 1st time!
