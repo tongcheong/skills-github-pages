@@ -2,3 +2,7 @@ theme: minima
 title: Football Predictions
 author: tong
 description: Trying out Github Pages for the 1st time!
+
+<!--- site config --->
+ignore_theme_config: true
+
