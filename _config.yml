@@ -1,6 +1,31 @@
 remote_theme: daviddarnes/alembic@main
 title: Football Predictions
 author: tong
-description: Trying out Github Pages for the 1st time!
+description: Trying out Github Pages for the 1st time!# 9. Site navigation
+navigation_header:
+- title: Home
+  url: /
+- title: Elements
+  url: /elements/
+- title: Blog
+  url: /blog/
+- title: Categories
+  url: /categories/
+- title: Search
+  url: /search/
+- title: Fork Alembic
+  url: https://github.com/daviddarnes/alembic
+  plugins:
+- jekyll-sitemap
+- jekyll-mentions
+- jekyll-paginate
+- jekyll-seo-tag
+- jekyll-redirect-from
+- jekyll-feed
+- jekyll-commonmark
+- jekyll-include-cache
+- jemoji
+
+
 
 
