@@ -7,7 +7,7 @@ food: "pizza"
 ## Welcome
 ### This is my Second Post!
 
-<p>My favorite food is {{ post.food }}</p>
+<p>My favorite food is {{ page.food }}</p>
 
 **Hello world**, this is my Second Jekyll blog post.
 
