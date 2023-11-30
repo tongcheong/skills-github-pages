@@ -17,4 +17,4 @@ food: pizza
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
 
-I hope you like it!
+**I hope you like it!**
