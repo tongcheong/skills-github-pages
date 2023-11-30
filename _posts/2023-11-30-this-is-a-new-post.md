@@ -1,9 +1,13 @@
 ---
-title:  "Welcome to Jekyll!"
+title:  "Welcome to my Second Post!"
+author: "tong"
+food: "pizza"
 ---
 
 ## Welcome
 ### This is my Second Post!
+
+<p>My favorite food is {{ post.food }}</p>
 
 **Hello world**, this is my Second Jekyll blog post.
 
