@@ -29,6 +29,7 @@ navigation_header:
 - jekyll-feed
 - jekyll-commonmark
 - jekyll-include-cache
+- jekyll-remote-theme
 - jemoji
 
 
