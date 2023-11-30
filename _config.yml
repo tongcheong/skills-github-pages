@@ -1,4 +1,4 @@
-remote_theme: daviddarnes/alembic@main
+theme: daviddarnes/alembic@main
 title: Football Predictions
 author: tong
 description: Trying out Github Pages for the 1st time!# 9. Site navigation
